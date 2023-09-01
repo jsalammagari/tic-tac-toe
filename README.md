@@ -17,3 +17,4 @@ Now let's proceed with creating the necessary files and implementing the code.
 
 1. game.py
 
+The recording for setting up the environment and application code base generated is available [here](https://drive.google.com/file/d/1Dhzk6-MnJmPLfxFPeYRAI3eNQAAN4Ttk/view?usp=sharing)
