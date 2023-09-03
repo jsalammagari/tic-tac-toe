@@ -18,3 +18,9 @@ Now let's proceed with creating the necessary files and implementing the code.
 1. game.py
 
 The recording for setting up the environment and application code base generated is available [here](https://drive.google.com/file/d/1Dhzk6-MnJmPLfxFPeYRAI3eNQAAN4Ttk/view?usp=sharing)
+
+The recording for generating a unit test via github copilot is available [here]
+(https://drive.google.com/file/d/1yDTSSHc7b-0OINwsna1EBSxeHCdb1PWq/view?usp=sharing)
+
+The medium article pertaining to the prompt engineering is available [here]
+(https://medium.com/@jsalammagari/unravelling-data-mysteries-with-chatgpt-4-an-analytical-journey-ddd305dd2908)
