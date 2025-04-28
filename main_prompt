@@ -1,0 +1,27 @@
+Build a complete Tic-Tac-Toe application in Python. The requirements are as follows:
+
+Game Mechanics:
+
+The game should be designed for two players.
+The board should be represented as a 3x3 grid.
+Players should take turns to place their mark ('X' or 'O') on the grid.
+The game should check for a win or a draw after every move.
+A win is achieved if a player has their mark in a complete row, column, or diagonal.
+The game ends either when there's a winner or all spots on the board are filled (resulting in a draw).
+User Interface:
+
+Use the command-line interface for user input and output.
+Display the board after every move.
+Prompt the user for their move by asking for the row and column number.
+Provide feedback if a move is invalid (e.g., if a spot is already occupied or if the input is out of bounds).
+Refactoring:
+
+Ensure the code is modular. Separate the game logic from the user interface.
+Use functions or classes to organize the code.
+Implement error handling for invalid user inputs.
+Unit Tests:
+
+Write unit tests for all the core game functionalities.
+This includes testing for valid moves, detecting a win, detecting a draw, and handling invalid moves.
+Use Python's built-in unittest module for this purpose.
+Please ensure that the code is clean, well-commented, and follows best practices. Provide the complete source code for the Tic-Tac-Toe application along with the unit tests.
